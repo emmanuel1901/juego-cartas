@@ -1,3 +1,4 @@
+/* Estilos para selectores de etiquetas */
 body {
     font-family: 'Segoe UI';
     background: linear-gradient(to bottom, #0fe46f, #fff);
@@ -10,6 +11,8 @@ h1 {
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
+
+/* Estilos de clase */
 .encabezado {
     width: 100%;
     text-align: center;
@@ -28,7 +31,6 @@ h1 {
     background-color: #2196F3;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 1);
     border-radius: 10px;
-    /*transition: background-color 0.3s ease, transform 0.2s ease, box-shadow 0.3s ease;*/
 }
 
 .boton:hover{
